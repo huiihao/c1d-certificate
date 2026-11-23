@@ -75,6 +75,6 @@ refined by repeated perturbation and descent at $n=400$.
 
 ## AI disclosure
 
-The optimization, verification and drafting were carried out with Claude Code
-(Anthropic) under the direction of the contributor. The contributor has reviewed
+The optimization, verification and drafting were carried out with DeepSeek
+(deepseek-flash) under the direction of the contributor. The contributor has reviewed
 the numerical claims.
